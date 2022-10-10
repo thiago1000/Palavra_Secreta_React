@@ -1,6 +1,7 @@
 {
   "name": "palavra_secreta",
   "version": "0.1.0",
+  "homepage": "Palavra_Secreta_React/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
