@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.90a54be0.css",
-    "main.js": "/static/js/main.aa8c548d.js",
-    "static/js/787.412fe021.chunk.js": "/static/js/787.412fe021.chunk.js",
-    "index.html": "/index.html",
-    "main.90a54be0.css.map": "/static/css/main.90a54be0.css.map",
-    "main.aa8c548d.js.map": "/static/js/main.aa8c548d.js.map",
-    "787.412fe021.chunk.js.map": "/static/js/787.412fe021.chunk.js.map"
+    "main.css": "/Palavra_Secreta_React/static/css/main.90a54be0.css",
+    "main.js": "/Palavra_Secreta_React/static/js/main.373537a3.js",
+    "static/js/787.412fe021.chunk.js": "/Palavra_Secreta_React/static/js/787.412fe021.chunk.js",
+    "index.html": "/Palavra_Secreta_React/index.html",
+    "main.90a54be0.css.map": "/Palavra_Secreta_React/static/css/main.90a54be0.css.map",
+    "main.373537a3.js.map": "/Palavra_Secreta_React/static/js/main.373537a3.js.map",
+    "787.412fe021.chunk.js.map": "/Palavra_Secreta_React/static/js/787.412fe021.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.90a54be0.css",
-    "static/js/main.aa8c548d.js"
+    "static/js/main.373537a3.js"
   ]
 }
