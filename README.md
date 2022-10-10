@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Link para vê o projeto no github pages
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[https://thiago1000.github.io/palavra_secreta_react/](https://thiago1000.github.io/palavra_secreta_react/)
 
 ## Available Scripts
 

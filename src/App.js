@@ -119,7 +119,9 @@ function App() {
 			setScore((actualScore) => (actualScore += 100));
 		
 			// reseta o jogo com nova palavra
-			startGame();
+			setTimeout(function () {
+				startGame();
+			}, 1500);
 		}
 	}, [guessedLetters, letters, startGame, gameStage]);
 
